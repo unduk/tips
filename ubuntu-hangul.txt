@@ -1,0 +1,5 @@
+# https://webnautes.tistory.com/1199
+
+Ubuntu 18.04 설치 완료 후 한글 설정하는 방법
+한국어(101/104키 호환) 지우기
+
